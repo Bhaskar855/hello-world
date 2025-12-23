@@ -18,7 +18,7 @@ variables:
   environmentName: 'robustmq'
 
   # Agent VM image name
-  vmImageName: 'Hosted-Agent'
+  vmImageName: 'Hosted Agent'
 
 stages:
 - stage: Build
